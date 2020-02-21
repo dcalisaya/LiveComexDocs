@@ -1,0 +1,18 @@
+1. Módulo de  Instrucciones 
+- Debe tener un espacio para el email para que se envíen las notificaciones en cada estado
+- El campo de Cliente debe ser requerido
+- Los correos de notificaciones deben ser de: courier, solicitante, importación, control, facturación y asistente. 
+- Debe debe agregar un Check de Estado de Control para las revisiones y aprobaciones, con la opción de poner un comentario sobre el motivo
+
+2. Módulo de Proformas
+- Verificar que en el ingreso de clientes sólo se muestren los campos en base a Cédula o RUC.
+- Debe calcular por el valor mayor entre Peso y Volumen- Tener una  pantalla de proforma 4X4 aparte de consumo
+- El campo CRF de ser CFR- Los derechos arancelarios deben ser modificables
+- El valor del flete debe ser modificable- El valor de FODINFA es 0.50%
+- Debe totalizar al final- Ver la posibilidad de enviar el PDF al email
+
+3. Módulo de Operaciones
+- 
+
+4. Generalidades
+- Revisar que en vez de como (0,00) salgan puntos (0.00)
